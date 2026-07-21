@@ -14,18 +14,18 @@ Cuenta con diferentes tipos de seguridad:
 
 ## Capturas
 
-1. a
-<img width="1147" height="596" alt="image" src="https://github.com/user-attachments/assets/b45293ed-1630-470b-97bf-399e01b892e2" />
-2. a
+1. Creación de usuario.
+<img width="1152" height="607" alt="image" src="https://github.com/user-attachments/assets/7fb70840-3b94-4fc3-81cf-b200de10b254" />
+2. Obtención de token al iniciar sesión.
 <img width="1156" height="608" alt="image" src="https://github.com/user-attachments/assets/e0aa7ed7-c6fa-4204-a8db-143f2a5916af" />
-3. a
+3. Realización de una petición GET sin token de autenticación para leer las filas y columnas.
 <img width="1148" height="603" alt="image" src="https://github.com/user-attachments/assets/cee5830a-6e8b-4f54-a99e-5639e04cd890" />
-4. a
+4. Realización de una petición GET con token de autenticación para leer las filas y columnas.
 <img width="1156" height="608" alt="image" src="https://github.com/user-attachments/assets/cf2162bf-0ae5-4de9-aaff-1e3b6a703ecc" />
-5. a
+5. Realización de una petición POST para crear una fila.
 <img width="1153" height="602" alt="image" src="https://github.com/user-attachments/assets/12b5cd56-8fbe-4148-8343-91069e538342" />
-6. a
+6. Realización de una petición PUT para actualizar una fila.
 <img width="1152" height="605" alt="image" src="https://github.com/user-attachments/assets/ae83b7ee-f142-4947-9ccd-47ed98f74220" />
-7. a
+7. Realización de una petición DELETE para borrar una fila.
 <img width="1155" height="605" alt="image" src="https://github.com/user-attachments/assets/1268bd1b-e153-407d-ace5-1b5c51506060" />
 
