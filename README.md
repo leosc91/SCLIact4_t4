@@ -49,5 +49,5 @@ Cuenta con diferentes tipos de seguridad:
 | `POST`   | `http://165.22.6.118:8090/api/auth/login`      | Inicio de sesión con nombre de usuario y contraseña |
 | `GET`    | `http://165.22.6.118:8090/api/videojuegos`     | Leer filas y columnas                               |
 | `POST`   | `http://165.22.6.118:8090/api/videojuegos`     | Añadir fila                                         |
-| `PUT`    | `http://165.22.6.118:8090/api/videojuegos/19`  | Modificar fila                                      |
-| `DELETE` | `http://165.22.6.118:8090/api/videojuegos/25`  | Eliminar fila                                       |
+| `PUT`    | `http://165.22.6.118:8090/api/videojuegos/19`  | Modificar fila (Ej. 19)                             |
+| `DELETE` | `http://165.22.6.118:8090/api/videojuegos/25`  | Eliminar fila (Ej. 25)                              |
